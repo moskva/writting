@@ -1,5 +1,7 @@
 # 新冠后如何恢复运动
 
+<img src="images/training.jpg" />
+
 在被 COVID-19 困在室内并与世隔绝后，我们都急于回归到常规生活。然而恢复运动取决于我们在COVID-19之前的健康水平，以及我们的年龄和生病的程度。
 
 如何安全地恢复运动呢？内布拉斯加医疗中心（ *Nebraska Medicine*）的心脏病专家安德森博士（Dan Anderson, MD, PhD）和物理治疗师沃斯拉格（Brett Woslager, DPT, CSCS）提供了以下建议。
@@ -70,7 +72,7 @@
 
 一个40岁的人的最大心率是180 bpm。他们最大心率的80%将是144 bpm。
 
-### 短暂的运动能对长期新冠有帮助吗？
+### 短时间的运动能对长期新冠有帮助吗？
 
 患有长期新冠 (Long COVID[^1])  的人在初次感染后至少30天仍有症状。短暂的运动不可能解决你的长期COVID症状，甚至可能使情况恶化。
 
@@ -83,3 +85,7 @@
 [^1]:  世界卫生组织对长期新冠的定义是： 有疑似或确诊SARS-CoV-2（COVID-19）感染史的人所发生的疾病；通常在COVID-19发病后的3个月内，其症状和影响至少持续2个月。
 
 From: [How (and when) to start exercising again after COVID-19 | Nebraska Medicine Omaha, NE](https://www.nebraskamed.com/COVID/how-and-when-to-start-exercising-again-after-covid-19) 
+
+
+
+Cover Photo by [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/training?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
